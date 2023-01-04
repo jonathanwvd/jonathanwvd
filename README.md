@@ -1,6 +1,26 @@
-### Hi 👋 I'm a Machine Learning Professional
+### Hi 👋
 
-- 📫 How to reach me: jonathan@latos.ai
+Increased the performance of manufacturing industries by developing data-driven solutions
+------------------------------------
+
+- 📫 You can contact me at [jonathan@latos.ai](mailto:jonathan@latos.ai)
+
+## Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/jonathanwvd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+    
+  <a href="https://www.linkedin.com/in/jwvd/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
+
+Innovative Data Scientist with 5+ years of experience in Machine Learning. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
+
+• 6+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
+
+• In-depth understanding of Python. 
+
+
+
 
 ## Ph.D researcher (2016-2019)
 
@@ -30,18 +50,4 @@
 
 # Awards: 
 * [Gerdau Digital Scrap Challange](https://www.herox.com/digitalscrap)
-* 
-<!--
-**jonathanwvd/jonathanwvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
