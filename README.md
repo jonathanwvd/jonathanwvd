@@ -4,7 +4,7 @@
 
 ## Ph.D researcher (2016-2019)
 
-[List of publications](https://www.scopus.com/authid/detail.uri?authorId=57191414672.)
+[List of publications](https://www.scopus.com/authid/detail.uri?authorId=57191414672)
 
 * Used scientific programming with Python to solve different control loop problems in process industries.
 * Published many works in high-impact Journals. Most of them are related to Artificial Intelligence and data-driven solutions. 
