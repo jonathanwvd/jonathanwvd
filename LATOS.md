@@ -18,4 +18,4 @@ With the solution, the manufacturing company was able to reduce maintenance cost
 Heron is running in two manufacturing companies, which are generating online indicators that are been used by engineers in decision-making. We are negotiating with two more potential customers. Python and Django were a choice that allowed the fast development of the first version of Heron even in a small team like ours.
 
 ## Other Projects
-* 
+* [Latos Website](www.latos.ai) - The static website was build using Gulp, Bootstrap, JavaScript, CSV, and HTML5.

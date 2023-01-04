@@ -6,19 +6,17 @@
 
 ## Description
 * Used scientific programming with Python to solve different control loop problems in process industries.
-* Published many works in high-impact Journals. Most of them are related to Artificial Intelligence and data-driven solutions. 
+* Published many works in high-impact Journals. Most of them are related to Artificial Intelligence and data-driven solutions.
+* Spent 7 months in the Artificial Intelligence group at the University of Kaiserslaurnter to improve my AI knowledge.
 * Interpreted research specifications and developed a work plan that satisfies requirements.
-* Conducted desktop research.
 * Used books, journal articles, newspaper sources, questionnaires, surveys, polls, and interviews to gather data.
 * Analyzed and interpreted patterns and trends.
 * Recorded findings by taking written notes and using appropriate software.
 * Maintained and protected electronic databases.
-* Assisted management with budget and time schedules.
-* Anticipated research issues and promptly resolved them.
-* Reported any problems to the relevant stakeholders.
-* Followed a strict code of ethics and protected any confidential information at all times.
 * Wrote proposals and delivered presentations when required.
 
 ## Outcome
 
-Petrobras, an Oil & Gas company in Brazil, is using the solutions developed. The solutions are helping to increase the performance of the refineries, allowing savings of millions of dollars.
+* Petrobras, an Oil & Gas company in Brazil, is using the solutions developed. The solutions are helping to increase the performance of the refineries, allowing savings of millions of dollars.
+
+* [SISO-VIEW](https://github.com/jonathanwvd/sisoviewer) - An open source Control-loop Performance Monitoring tool. The solutions was built using Python and Dash.

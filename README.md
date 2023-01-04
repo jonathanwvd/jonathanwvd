@@ -1,4 +1,4 @@
-# Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil
+# Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil 🇧🇷
 
 * CEO of a Machine Learning-based startp
 * 5+ years of experience in Machine Learning
@@ -26,7 +26,7 @@
 ## Work History
 * [Researcher (2015-2020)](<RESEARCH.md>)
 * [Team Leader at Latos (2020-)](<LATOS.md>)
-* [Team Leader at Industry 4.0 Academy (2022-)](<I40A.md>)
+* Team Leader at Industry 4.0 Academy (2022-)
 
 ## Awards
 * [Gerdau Digital Scrap Challange](https://www.herox.com/digitalscrap)
