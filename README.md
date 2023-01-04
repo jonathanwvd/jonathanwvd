@@ -1,6 +1,8 @@
 # Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil 🇧🇷
 
 * CEO of a Machine Learning-based startp
+* Ph.D. in Chemical Engineering
+* Solutions in Manufacturing, Process Industries, and Industry 4.0
 * 5+ years of experience in Machine Learning
 * 7+ years of experience in Python 
 * 6+ years of experience in research
@@ -25,8 +27,6 @@
 
 Portuguese
 * [Análise de dados de brassagem de produção artesanal de cerveja](https://github.com/latosai/analise_brassagem) - Análise de dados de brassagem de produção artesanal de cerveja. Cópia do repositório do GitHub da Elipse Software.
-
-
 
 ## Education
 * Ph.D. in Chemical Engineering (2019)
