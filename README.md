@@ -50,3 +50,6 @@ Innovative Data Scientist with 5+ years of experience in Machine Learning. Worki
 # Awards: 
 * [Gerdau Digital Scrap Challange](https://www.herox.com/digitalscrap)
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jonathanwvd"><img src="https://github-readme-stats.vercel.app/api?username=jonathanwvd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jonathanwvd's GitHub stats" /></a>
