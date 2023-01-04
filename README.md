@@ -1,6 +1,6 @@
 # Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil 🇧🇷
 
-* CEO of a Machine Learning-based startp
+* CEO of a Machine Learning-based startup
 * 5+ years of experience in Machine Learning
 * 7+ years of experience in Python 
 * 6+ years of experience in research
