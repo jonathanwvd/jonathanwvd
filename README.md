@@ -17,6 +17,16 @@
 
 📫 You can contact me at [jonathan@latos.ai](mailto:jonathan@latos.ai)
 
+## Open Projects
+* [Awesome Industry 4.0 Datasets](https://github.com/latosai/analise_brassagem/blob/master/code/analise_dos_dados.ipynb) - A curated list of public dataset related to Industry 4.0.
+* [SISO Viewer](https://github.com/jonathanwvd/sisoviewer) - An open source Control-loop Performance Monitoring tool.
+* [Python for Industry 4.0](https://github.com/i40a/python-for-industry40/blob/main/README.md) - Jupyter Notebook files from the course Python for Industry 4.0.
+* [Python and Data Science in Industry 4.0](https://github.com/i40a/python-and-data-science-in-industry40) - Jupyter Notebook files from the course Python and Data Science Industry 4.0.
+
+Portuguese
+* [Análise de dados de brassagem de produção artesanal de cerveja](https://github.com/latosai/analise_brassagem) - Análise de dados de brassagem de produção artesanal de cerveja. Cópia do repositório do GitHub da Elipse Software.
+
+
 
 ## Education
 * Ph.D. in Chemical Engineering (2019)
