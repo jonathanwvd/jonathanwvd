@@ -1,6 +1,5 @@
 # Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil 🇧🇷
 
-* CEO of a Machine Learning-based startup
 * Ph.D. in Chemical Engineering
 * Solutions in Manufacturing, Process Industries, and Industry 4.0
 * 5+ years of experience in Machine Learning
