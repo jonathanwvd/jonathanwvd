@@ -1,7 +1,6 @@
 # Hi 👋 I'm a Machine Learning professional and Python Programmer from Brazil 🇧🇷
 
 * Ph.D. in Chemical Engineering
-* Solutions in Manufacturing, Process Industries, and Industry 4.0
 * 5+ years of experience in Machine Learning
 * 7+ years of experience in Python 
 * 6+ years of experience in research
@@ -19,14 +18,14 @@
 📫 You can contact me at [jonathan@latos.ai](mailto:jonathan@latos.ai)
 
 ## Open Projects
-* [Django Movie Recommender](https://github.com/jonathanwvd/django-movie-recommender) - This simple Django application recommends new movies based on a selected one.
-* [Awesome Industry 4.0 Datasets](https://github.com/i40a/awesome-industry40-datasets) - A curated list of public dataset related to Industry 4.0.
-* [SISO Viewer](https://github.com/jonathanwvd/sisoviewer) - An open source Control-loop Performance Monitoring tool.
+* [Django Movie Recommender](https://github.com/jonathanwvd/django-movie-recommender) - This simple Django application recommends new movies based on a selected one (educational purpose).
+* [Awesome Industry 4.0 Datasets](https://github.com/i40a/awesome-industry40-datasets) - A curated list of public dataset related to Industry 4.0. Users can easily select a suitable dataset to test machine learning or any other algorithm.
+* [SISO Viewer](https://github.com/jonathanwvd/sisoviewer) - An open source Control-loop Performance Monitoring tool (one of my Ph.D projects).
 * [Python for Industry 4.0](https://github.com/i40a/python-for-industry40) - Jupyter Notebook files from the course Python for Industry 4.0.
 * [Python and Data Science in Industry 4.0](https://github.com/i40a/python-and-data-science-in-industry40) - Jupyter Notebook files from the course Python and Data Science Industry 4.0.
 
 Portuguese
-* [Análise de dados de brassagem de produção artesanal de cerveja](https://github.com/latosai/analise_brassagem) - Análise de dados de brassagem de produção artesanal de cerveja. Cópia do repositório do GitHub da Elipse Software.
+* [Análise de dados de brassagem de produção artesanal de cerveja](https://github.com/latosai/analise_brassagem) - Análise de dados de brassagem de produção artesanal de cerveja.
 
 ## Education
 * Ph.D. in Chemical Engineering (2019)
