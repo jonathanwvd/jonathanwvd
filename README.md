@@ -2,8 +2,8 @@ Hello 👋, I am a Brazilian Machine Learning professional and Python programmer
 
 * Ph.D. in Chemical Engineering
 * 6+ years of experience in Machine Learning
-* 8+ years of experience in Python
-* 7+ years of experience in research
+* 7+ years of experience in Python
+* 9+ years of experience in research
 
 ## Socials
 <p align="left"> 
