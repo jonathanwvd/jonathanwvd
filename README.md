@@ -1,9 +1,8 @@
-Hello 👋, I am a Brazilian Machine Learning professional and Python programmer, currently working as a trainer for a Large Language Model (LLM). I specialize in creating and correcting data to fine-tune the model, with a strong focus on problem-solving and attention to detail.
+Hi! I hold a Ph.D. in Chemical Engineering with over 8 years of Python experience, specializing in AI and Machine Learning. I've co-founded a tech startup, led data science teams, and worked on impactful projects for global companies.
 
-* Ph.D. in Chemical Engineering
-* 10+ years of experience in research
-* 7+ years of experience in Python
-* 6+ years of experience in Machine Learning
+Currently, I lead a team of 30+ professionals (primarily Ph.D.s) at Turing, contributing to the improvement of some of the most widely used LLM models globally.
+
+Let’s connect to discuss collaborations or opportunities! 
 
 ## Socials
 <p align="left"> 
