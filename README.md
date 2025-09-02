@@ -1,8 +1,6 @@
-Hi! I hold a Ph.D. in Chemical Engineering with over 8 years of Python experience, specializing in AI and Machine Learning. I've co-founded a tech startup, led data science teams, and worked on impactful projects for global companies.
+Hi! I hold a Ph.D. in Chemical Engineering with over 9 years of Python experience, specializing in AI and Machine Learning. I've co-founded a tech startup, led data science teams, and worked on impactful projects for global companies.
 
-Currently, I lead a team of 30+ professionals (primarily Ph.D.s) at Turing, contributing to the improvement of some of the most widely used LLM models globally.
-
-Let’s connect to discuss collaborations or opportunities! 
+Learn more about me [here](https://jonathanwvd.github.io)
 
 ## Socials
 <p align="left"> 
