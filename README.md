@@ -1,6 +1,6 @@
 Hi! I hold a Ph.D. in Chemical Engineering with over 9 years of Python experience, specializing in AI and Machine Learning. I've co-founded a tech startup, led data science teams, and worked on impactful projects for global companies.
 
-Learn more about me [here](https://jonathanwvd.github.io)
+Learn more about me [here](https://jonathanwvd.github.io).
 
 ## Socials
 <p align="left"> 
