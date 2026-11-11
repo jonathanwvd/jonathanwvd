@@ -31,6 +31,12 @@ Porto Alegre, Brazil · [Resume](https://jonathanwvd.github.io/resume/) · [Goog
 - M.Sc. in Chemical Engineering, UFRGS (2015 – 2016)
 - B.Sc. in Chemical Engineering, FURG (2010 – 2014)
 
+## Selected Projects
+
+- **[awesome-industrial-datasets](https://github.com/jonathanwvd/awesome-industrial-datasets)**: curated list of public industrial datasets, ~600 stars.
+- **[PlantCraft](https://github.com/jonathanwvd/plantcraft)**: open-source toolkit for process engineers, from plant simulation to control-loop monitoring.
+- **[Industrial Atlas](https://www.indatlas.com)**: curated catalog of 4,000+ industrial tools, datasets and companies.
+
 ## Awards
 
 - Best Industry 4.0 Application, national prize (2021)
